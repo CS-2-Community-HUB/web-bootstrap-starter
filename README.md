@@ -3,7 +3,7 @@
 This is a template to help you explore HTML with Bootstrap
 
 
-## 🧠 Concepts Covered
+## Contains
 - HTML page structure
 - Bootstrap components
 - Navbar reusability with jQuery
